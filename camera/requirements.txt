@@ -1,0 +1,5 @@
+opencv-python
+fastapi
+uvicorn
+google-genai
+# mediapipe (esqueleto/pose) e opcional: os .bat instalam a parte, para nao travar o resto se nao houver versao para o seu Python
