@@ -2,7 +2,29 @@
 
 Assistente para personal trainers: a câmera analisa a execução dos exercícios em tempo real com IA (Gemini) e pose estimation (MediaPipe), gera alertas de postura e acompanha os alunos pelo app.
 
-O Smart-Mirror é um protótipo de sistema para monitorar a execução de exercícios físicos. Uma câmera filma o aluno, o MediaPipe identifica 33 pontos do corpo e calcula os ângulos das articulações.
+O Smart-Mirror é um protótipo de sistema para monitorar a execução de exercícios físicos. Uma câmera filma o aluno, o MediaPipe identifica 33 pontos do corpo e calcula os ângulos das articulações para avaliar a execução dos movimentos.
+
+## Capturas de tela
+
+### Tela inicial
+
+![Tela inicial](Screenshots/Tela%20Inicial.png)
+
+### Início
+
+![Início](Screenshots/Inicio.png)
+
+### Monitorar
+
+![Monitorar](Screenshots/Monitorar.png)
+
+### Alertas
+
+![Alertas](Screenshots/Alertas.png)
+
+### Perfil
+
+![Perfil](Screenshots/Perfil.png)
 
 ## Como funciona
 
